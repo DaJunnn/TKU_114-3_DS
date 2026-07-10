@@ -1,0 +1,4 @@
+printMenu()
+showBalance(int balance)
+deposit(Scanner sc, int balance)
+withdraw(Scanner sc, int balance)
